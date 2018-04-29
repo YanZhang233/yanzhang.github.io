@@ -1,0 +1,41 @@
+title: Blog - Yan Zhang
+email: zyellie7@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yanzhang233.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Yan Zhang # add your name
+author-pic: Yan.jpeg
+about-author: My name is Yan Zhang. I’m a ios developer and rock music lover.
+
+# Contact links
+email: zyellie7@gmail.com # Add your Email address
+website: yanzhang233.github.io # Add your website, do not add http://
+linkedin: yan-ellie-zhang-81785a12b # Add your Linkedin handle
+github: YanZhang233 # Add your Github handle
+
+# Disqus
+discus_identifier: yanzhang233 # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
