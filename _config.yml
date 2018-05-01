@@ -20,10 +20,10 @@ linkedin: yan-ellie-zhang-81785a12b # Add your Linkedin handle
 github: YanZhang233 # Add your Github handle
 
 # Disqus
-discus_identifier: yanzhang233 # Add your discus identifier
+discus_identifier: yanzhang # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-118570595-1 # Google Analytics
 
 # Paginate
 paginate: 6
