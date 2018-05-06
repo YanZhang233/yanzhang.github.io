@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Backtracking",
+      "category" : "",
+      "tags"     : "Algorithm, Leetcode, Backtracking",
+      "url"      : "/backtracking/",
+      "date"     : "2018-05-06 03:33:00 -0400"
+    } ,
+  
+    {
       "title"    : "Reverse LinkedList",
       "category" : "",
       "tags"     : "Algorithm, Leetcode, LinkedList",
